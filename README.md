@@ -21,6 +21,10 @@ pip install -r requirements.txt
 #### 4 - Run `main.py` 
 Execute the main script with an optional argument to specify the number of posts to process (default and max is 10):
 ```bash
+python main.py
+```
+Or specify num-posts by :
+```bash
 python main.py --num-posts 10
 ```
 
